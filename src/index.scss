@@ -1,0 +1,35 @@
+*{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  outline: none;
+  font-family: 'Roboto', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+  'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+  sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+
+.todo{
+  display: flex;
+}
+
+
+.todo__tasks{
+  width: 80%;
+  height: 100vh;
+  background: #FFF;
+  border: solid red 2px;
+}
+
+
+
+
+
+
+
+
+
+
